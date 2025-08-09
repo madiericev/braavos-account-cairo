@@ -8,7 +8,9 @@ Things can break and in extreme cases can lead to loss of funds. The contract co
 not yet been audited, the wallet code as well as the contracts themselves can be upgraded
 without a timelock.
 
+
 ## Design
+
 
 The Braavos account contract is comprised of 3 main modules:
 
